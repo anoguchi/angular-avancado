@@ -1,0 +1,10 @@
+C:\Users\Alberto\Downloads\9FE4E52C-0411-45CA-8A08-9B597493A411-14 - ProjetoFinal\back-end\src\DevIO.Business\bin\Debug\netcoreapp3.1\DevIO.Business.deps.json
+C:\Users\Alberto\Downloads\9FE4E52C-0411-45CA-8A08-9B597493A411-14 - ProjetoFinal\back-end\src\DevIO.Business\bin\Debug\netcoreapp3.1\DevIO.Business.dll
+C:\Users\Alberto\Downloads\9FE4E52C-0411-45CA-8A08-9B597493A411-14 - ProjetoFinal\back-end\src\DevIO.Business\bin\Debug\netcoreapp3.1\DevIO.Business.pdb
+C:\Users\Alberto\Downloads\9FE4E52C-0411-45CA-8A08-9B597493A411-14 - ProjetoFinal\back-end\src\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.csproj.AssemblyReference.cache
+C:\Users\Alberto\Downloads\9FE4E52C-0411-45CA-8A08-9B597493A411-14 - ProjetoFinal\back-end\src\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alberto\Downloads\9FE4E52C-0411-45CA-8A08-9B597493A411-14 - ProjetoFinal\back-end\src\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.AssemblyInfoInputs.cache
+C:\Users\Alberto\Downloads\9FE4E52C-0411-45CA-8A08-9B597493A411-14 - ProjetoFinal\back-end\src\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.AssemblyInfo.cs
+C:\Users\Alberto\Downloads\9FE4E52C-0411-45CA-8A08-9B597493A411-14 - ProjetoFinal\back-end\src\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.csproj.CoreCompileInputs.cache
+C:\Users\Alberto\Downloads\9FE4E52C-0411-45CA-8A08-9B597493A411-14 - ProjetoFinal\back-end\src\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.dll
+C:\Users\Alberto\Downloads\9FE4E52C-0411-45CA-8A08-9B597493A411-14 - ProjetoFinal\back-end\src\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.pdb
